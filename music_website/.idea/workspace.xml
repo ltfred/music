@@ -1,113 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffa9e104-3f8c-4de8-876c-fc6eb2a1eb92" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music_info.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/poison-soup.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search_history.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/about1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/f1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/f2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/f3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/f4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/g1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/g2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/g3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/g4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/g5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/images.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/pic9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/search.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/single.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tick.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/triangle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/w1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/w2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/w3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/w4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/clipboard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/clipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/easyResponsiveTabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-1.11.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jquery-3.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/menu_jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/npm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/music/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/music/goodluck.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/music/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/music/lucky.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/music/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/music_website.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/music_website.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_website/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_website/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_website/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_website/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music_website/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/music_website/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="ffa9e104-3f8c-4de8-876c-fc6eb2a1eb92" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="79" />
     <option name="y" value="42" />
     <option name="width" value="1226" />
@@ -239,24 +133,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567248125649</updated>
-      <workItem from="1567248126858" duration="1476000" />
+      <workItem from="1567248126858" duration="1697000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1476000" />
+    <option name="totallyTimeSpent" value="1697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="79" y="42" width="1226" height="858" extended-state="0" />
+    <frame x="79" y="42" width="1226" height="858" extended-state="1" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2787162" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2787162" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32767624" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32767624" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
