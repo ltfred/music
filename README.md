@@ -1,19 +1,19 @@
-###  一个基于Django的简单音乐网站
-- 歌曲信息通过爬虫获取，数据库信息已经导出成SQL文件，可根据需要下载使用。
+###  A simple music website based on Django
+- The song information is obtained by the spider, and the database information has been exported to a SQL file, which can be downloaded and used as needed.
 
-### 运行
-- 安装环境
+### Run
+- Installation Environment
 
  ```pip install -r requirement```
  
-- 创建数据库
+- Create database
 
 ```create database wusun_music charset=utf8;```
 
-- 迁移
+- Migrate
 
 ```python manage.py migrate```
 
-- 导入数据
+- Import data
 
- ```mysql -u<用户名> -p<密码> < music_info.sql```
+ ```mysql -u<username> -p<password> < music_info.sql```
